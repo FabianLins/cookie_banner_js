@@ -17,7 +17,9 @@ To use this Cookie Banner, you have to do a few things:
 4. Adjust HTML the lines to your desires (but keep in mind that you have to keep the structure as it is).
 5. Adjust the SCSS variables.
 6. Compile the SCSS sheet.
+____________________________
   NOTE: If you are new to it, feel free to check out this compiler: https://scout-app.io/
+____________________________
 8. Adjust the JS variables in the "cookie_notification_code.js" file.
 
 # License

@@ -1,3 +1,6 @@
+# DISCLAMER!
+This was one of my first web development beginner projects made years ago. I disadvise against using it due to lacking experience. The reason why you can find this is to show my progess as web developer.
+
 # Responsive Vanilla JavaScript Cookie Banner Notification by Fabian Lins
 This is the Vanilla JavaScript version of my Cookie Banner Notification. There is also a jQuery JavaScript version of this available:
 https://github.com/FabianLins/cookie_banner_jquery
